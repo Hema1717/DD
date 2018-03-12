@@ -1,0 +1,5 @@
+html-testRunner==1.1.1
+Jinja2==2.9.5
+MarkupSafe==1.0
+selenium==3.6.0
+unittest2py3k==0.5.1

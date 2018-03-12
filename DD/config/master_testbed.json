@@ -1,0 +1,11 @@
+{
+  "default_register_credentials":{
+                               "register_fname" : "Hema",
+                                "register_lname" : "Raj",
+                               "register_email": "hema4qa@gmail.com",
+                                "register_companyname": "test",
+                                "register_phone":"9496779098",
+                                "register_password": "Welcome123$",
+                                "register_confirmpassword": "Welcome123$"
+                                }
+}
